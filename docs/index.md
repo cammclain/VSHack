@@ -4,6 +4,7 @@
 
 ## 1. [[Getting Started]] with [[VSHack]]
 ### 1.1 Selecting a [[Foundation Project]]
+First, you need 
 #### [[VSCode]]
 #### [[VSCodium]]
 #### [ThunderBird]
